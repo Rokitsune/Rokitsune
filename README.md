@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rokitsune
-- 👀 I’m interested in DevOps, cybersecurity, cats and travels.
 - 🌱 I’m Junior DevOps
+- 👀 I’m interested in DevOps, cybersecurity, cats and travels.
 - 😄 Pronouns: she/her
 <!---
 Rokitsune/Rokitsune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
